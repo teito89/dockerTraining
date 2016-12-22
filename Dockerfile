@@ -1,3 +1,3 @@
 FROM centos
-COPY Hello.txt /kk
+COPY Hello.txt /Kk
 
